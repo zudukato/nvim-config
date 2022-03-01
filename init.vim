@@ -13,8 +13,10 @@ set numberwidth=1
 set incsearch
 set cursorline
 set noerrorbells
-:imap qq <Esc>
-set background=dark
-so ~/config/nvim/Plugins.vim
+set clipboard=unnamedplus
+
+so ~/.config/nvim/Pluggins.vim
+so ~/.config/nvim/maps.vim
+
 set background=dark
 colorscheme seoul256
