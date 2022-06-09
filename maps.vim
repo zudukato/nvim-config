@@ -5,3 +5,5 @@ nnoremap <Leader>t :NERDTreeToggle<CR>
 nnoremap <Leader>q :q<CR>
 nnoremap <Leader>j 10<C-e>
 nnoremap <Leader>k 10<C-y>
+nnoremap <Leader>o o<Esc>
+nnoremap <Leader>O O<Esc>

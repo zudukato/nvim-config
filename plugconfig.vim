@@ -1,3 +1,4 @@
 "Thems
 set background=dark
-colorscheme seoul256
+
+let g:airline_theme='seoul256'
