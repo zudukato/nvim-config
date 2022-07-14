@@ -7,6 +7,8 @@ nnoremap <Leader>j 10<C-e>
 nnoremap <Leader>k 10<C-y>
 nnoremap <Leader>o o<Esc>
 nnoremap <Leader>O O<Esc>
+nnoremap <c-t> :split<CR>:ter<CR>:resize 15<CR>
+vnoremap <c-t> :split<CR>:ter<CR>:resize 15<CR>
 nmap <leader>rn <Plug>(coc-rename)
 nmap <silent> gd <Plug>(coc-definition)
 nmap <silent> gy <Plug>(coc-type-definition)

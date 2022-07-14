@@ -13,7 +13,9 @@ set numberwidth=1
 set incsearch
 set cursorline
 set noerrorbells
+set splitbelow
+set splitright
 
-so ~/.config/nvim/Pluggins.vim
+so ~/.config/nvim/Plugins.vim
 so ~/.config/nvim/maps.vim
 so ~/.config/nvim/plugconfig.vim
