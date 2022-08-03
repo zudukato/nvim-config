@@ -15,6 +15,7 @@ set cursorline
 set noerrorbells
 set splitbelow
 set splitright
+set clipboard=unnamedplus
 
 so ~/.config/nvim/Plugins.vim
 so ~/.config/nvim/maps.vim
