@@ -1,4 +1,5 @@
 "Thems
+colorscheme seoul256 
 set background=dark
 
 " Start NERDTree when Vim is started without file arguments.
