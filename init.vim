@@ -20,3 +20,4 @@ set clipboard=unnamedplus
 so ~/.config/nvim/Plugins.vim
 so ~/.config/nvim/maps.vim
 so ~/.config/nvim/plugconfig.vim
+so ~/.config/nvim/thems/them_config.vim
